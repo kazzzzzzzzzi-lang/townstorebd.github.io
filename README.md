@@ -1,4 +1,3 @@
-[townstore-v3.html](https://github.com/user-attachments/files/27691280/townstore-v3.html)
 <!DOCTYPE html>
 <html lang="bn">
 <head>
